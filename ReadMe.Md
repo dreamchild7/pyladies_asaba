@@ -9,3 +9,7 @@ name :solomon
 
 
 rita
+
+name: Anachebe Ikechukwu Kingsley
+occupation: UX/UI Developer
+mobile number: 07010128497
